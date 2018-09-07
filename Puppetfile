@@ -1,1 +1,1 @@
-mod 'camptocamp/systemd', :latest
+mod 'camptocamp/systemd', '1.0.0'
